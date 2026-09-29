@@ -1322,9 +1322,18 @@
           <links>
             <slidelink slideid="_player.5mWyZJI9Osy.6StiXCWuAPw" displaytext="Map level 2" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.6o3nBgJghvE" displaytext="Poopup Lv2" expand="false" type="slide" />
+            <slidelink slideid="_player.5mWyZJI9Osy.6P7NzpXZ9s1" displaytext="Poopup Lv2 soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5mWyZJI9Osy.69SeA9Mt0PQ" displaytext="Poopup Lv2 soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5mWyZJI9Osy.5y8E8DWA4pr" displaytext="Poopup Lv2 soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.6LkAaO2PjXe" displaytext="Poopup Lv3 soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.624DjZMAmex" displaytext="Poopup Lv3 soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.65pB3QwjixZ" displaytext="Poopup Lv3 soal 4" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.5uy1eLmQRAk" displaytext="Materi level 2.1" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.6lAjwmzn0og" displaytext="game level 2 (klien)" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.6L88sc9VFrO" displaytext="game level 2 (pishing)" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.6ZbRmtvjBT0" displaytext="game level 3 soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.6U3DGU0X6gU" displaytext="game level 3 soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.61WKaENvH8j" displaytext="game level 3 soal 2" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.5zrAzPIxt44" displaytext="game level 2 (virus) duplika" expand="false" type="slide" />
             <slidelink slideid="_player.5mWyZJI9Osy.5dcbPc8aTzB" displaytext="game level 2 (drag drop)" expand="false" type="slide" />
           </links>
@@ -1334,7 +1343,7 @@
             <slidelink slideid="_player.6CE5PY1dWCv.6nA3rwk3Hk1" displaytext="Map level 3" expand="false" type="slide" />
             <slidelink slideid="_player.6CE5PY1dWCv.5gYwhmampyI" displaytext="Poopup Lv3" expand="false" type="slide" />
             <slidelink slideid="_player.6CE5PY1dWCv.6JNYExChXzr" displaytext="Materi level 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6CE5PY1dWCv.608LYsqE76D" displaytext="game level 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6CE5PY1dWCv.608LYsqE76D" displaytext="game level 3 soal 1" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="" displaytext="Map Finish" expand="true" type="slide" />

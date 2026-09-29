@@ -2,224 +2,269 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6ZJpS92CISA":
+      case "6RdcnXyiBhn":
         Script1();
         break;
-      case "5ktTdsRGbrU":
+      case "6NZ9H3lgrUH":
         Script2();
         break;
-      case "5uLEghVKCnu":
+      case "5WOErJNXF7N":
         Script3();
         break;
-      case "5tss2cyF48t":
+      case "6TOFlE5JB04":
         Script4();
         break;
-      case "67LSBaBqmXQ":
+      case "65X49rV6ViO":
         Script5();
         break;
-      case "6WJfy9xyKZu":
+      case "5oWe293EDlS":
         Script6();
         break;
-      case "5XBQeSSd1vK":
+      case "68pMJx3c4o6":
         Script7();
         break;
-      case "5uhTIQsMn4J":
+      case "6oNoz0ZK1k3":
         Script8();
         break;
-      case "6OO3I8gvZRk":
+      case "60juKNduHS7":
         Script9();
         break;
-      case "5l5j3hD92Mh":
+      case "5vKEVuj6LjE":
         Script10();
         break;
-      case "5XecJKJEqEw":
+      case "6dKdfw93W4Y":
         Script11();
         break;
-      case "6Jhd0geDt98":
+      case "6hcUWDaqgrx":
         Script12();
         break;
-      case "5fyV4DTsRiY":
+      case "6DBlcji9tEb":
         Script13();
         break;
-      case "6ZfXJxOCkdf":
+      case "6jOCPo3tCBr":
         Script14();
         break;
-      case "5oVoitbwVYk":
+      case "5fYksagb2BA":
         Script15();
         break;
-      case "61VPR6TgHcR":
+      case "6n3yOUMbW1J":
         Script16();
         break;
-      case "6GSLdmXu4Ke":
+      case "6Ud5WUI6vId":
         Script17();
         break;
-      case "6f1AJPcxtGJ":
+      case "6njKw7cYTyB":
         Script18();
         break;
-      case "64Py0SaQfma":
+      case "6MD19U97mbH":
         Script19();
         break;
-      case "69JknkICMe7":
+      case "6bqM5LzQzZo":
         Script20();
         break;
-      case "6Hek9PEpejy":
+      case "6BjgwVyMhLY":
         Script21();
         break;
-      case "5umDVFtnLpl":
+      case "64aWXO1fz4L":
         Script22();
         break;
-      case "5cA7A6SA3CE":
+      case "5uO87jWiT1K":
         Script23();
         break;
-      case "5agEv1V6zZn":
+      case "6boOcUZy0re":
         Script24();
         break;
-      case "676XZlgjIcf":
+      case "5lOFAnJ673F":
         Script25();
         break;
-      case "6ZGEN8lu3kc":
+      case "5cNLVP2YnBY":
         Script26();
         break;
-      case "6G0WDKvzxrk":
+      case "5x3Sq5QFZp8":
         Script27();
         break;
-      case "5j45Pr8JZor":
+      case "6g05LBkTg23":
         Script28();
         break;
-      case "6UvDGLOxvZ8":
+      case "63jjTB99Xz1":
         Script29();
         break;
-      case "5vVszToStrk":
+      case "6R2tq9AUYDm":
         Script30();
         break;
-      case "62DhaPteHNW":
+      case "6jPHRzTDdl7":
         Script31();
         break;
-      case "6jXoYN9zluI":
+      case "6GZWQvQJkEx":
         Script32();
         break;
-      case "6gmkkuf1eD2":
+      case "6LOAr8QSnFp":
         Script33();
         break;
-      case "5fqEyGuFq2p":
+      case "5sxH797IGWt":
         Script34();
         break;
-      case "6mLUp1O87fH":
+      case "6ovzcUm7Mas":
         Script35();
         break;
-      case "5f7sI8p5nxb":
+      case "6negQG9QSyh":
         Script36();
         break;
-      case "6dPLsGYczUP":
+      case "6YUPyYCTGwg":
         Script37();
         break;
-      case "69ECIog83UE":
+      case "6Ic5fKldvSO":
         Script38();
         break;
-      case "6DAwAvIUccU":
+      case "6KCwpGXS8ZT":
         Script39();
         break;
-      case "6Y4sAkEfLg5":
+      case "5mdvvOQ3agy":
         Script40();
         break;
-      case "64H2qGSZdqE":
+      case "5qfESNV5MzG":
         Script41();
         break;
-      case "5zlQWZUgOHk":
+      case "5ZcLcYiE6xe":
         Script42();
         break;
-      case "5YXozxvpStr":
+      case "6qCsecDqS8Z":
         Script43();
         break;
-      case "6KRmfWDWAbv":
+      case "6cSLBBW6EP7":
         Script44();
         break;
-      case "5xyNuW1IOXn":
+      case "5jIxCCASz7N":
         Script45();
         break;
-      case "6gzypUoI5uM":
+      case "6g47nguDypC":
         Script46();
         break;
-      case "62QYnQsHqQz":
+      case "5kcrvwz2Et0":
         Script47();
         break;
-      case "6kCvuM3IjWx":
+      case "6SzA0XlTQpS":
         Script48();
         break;
-      case "5cFgctmIgEm":
+      case "6KhY8QdAWa0":
         Script49();
         break;
-      case "6fV2VBTjlIR":
+      case "6pG36BE2B7l":
         Script50();
         break;
-      case "6RrfGGpQknH":
+      case "5lpyJEsvQ4n":
         Script51();
         break;
-      case "64NGPBfJ1Fk":
+      case "5yS3yFERA4C":
         Script52();
         break;
-      case "65aq00IpfsI":
+      case "5h6pldLFYIk":
         Script53();
         break;
-      case "5nXHR0G00ph":
+      case "6o0K9VuCDDK":
         Script54();
         break;
-      case "6cz4RX2nZn4":
+      case "61Sj1Wxybe9":
         Script55();
         break;
-      case "6WYlS5xHtr1":
+      case "5vURydS4K7J":
         Script56();
         break;
-      case "6MjnSojVput":
+      case "6oQZjFaOAKa":
         Script57();
         break;
-      case "6YD2GkIArHO":
+      case "5qqSkfQCGpW":
         Script58();
         break;
-      case "6hVIyuwJOLr":
+      case "6p4hXa1a73V":
         Script59();
         break;
-      case "6bLT4bOAB0a":
+      case "5hN9cq9NBQ9":
         Script60();
         break;
-      case "5wCj93Q689M":
+      case "6Z4S0tDYIGl":
         Script61();
         break;
-      case "6pgVjXLBQpI":
+      case "5rxXjurowCZ":
         Script62();
         break;
-      case "6OKvudyzusL":
+      case "6667KreESwm":
         Script63();
         break;
-      case "5l4CsP7vGdY":
+      case "6Y2t7fPwS18":
         Script64();
         break;
-      case "6VX27otfLcn":
+      case "5YwKUjmD1TD":
         Script65();
         break;
-      case "6Ifa195GbCs":
+      case "5vnavHxPHJ8":
         Script66();
         break;
-      case "5cxWYolKcxQ":
+      case "5smoatRVorq":
         Script67();
         break;
-      case "6LLd9Y6QuKN":
+      case "6bNuz4udjDw":
         Script68();
         break;
-      case "6I6NRKSHaMG":
+      case "68CA2RsQjo2":
         Script69();
         break;
-      case "5tlLdYXO6tu":
+      case "5alw5khFS0t":
         Script70();
         break;
-      case "61ubkXU50BN":
+      case "60uvxwwRvAj":
         Script71();
         break;
-      case "6V6oM9zJsiz":
+      case "6DOffdS23PJ":
         Script72();
         break;
-      case "6ZSi0T3Gd6Z":
+      case "6rgmgEUbjun":
         Script73();
+        break;
+      case "5tTAlZytiUF":
+        Script74();
+        break;
+      case "6ctKKwEBPGD":
+        Script75();
+        break;
+      case "6EJa6wogyU9":
+        Script76();
+        break;
+      case "67qivkErebD":
+        Script77();
+        break;
+      case "6coXC7k4W9v":
+        Script78();
+        break;
+      case "6MMWktPwsze":
+        Script79();
+        break;
+      case "5cdyYQ4Rdg6":
+        Script80();
+        break;
+      case "5vX499uXTHI":
+        Script81();
+        break;
+      case "5bpW3KbLqOF":
+        Script82();
+        break;
+      case "5yK2mldu0UN":
+        Script83();
+        break;
+      case "5vYoVZh8OE1":
+        Script84();
+        break;
+      case "6grJolV6s2w":
+        Script85();
+        break;
+      case "5vmEOmnuGJg":
+        Script86();
+        break;
+      case "6Ci9RVYCTgN":
+        Script87();
+        break;
+      case "6XYBnqAbrgf":
+        Script88();
         break;
   }
 }
@@ -1056,34 +1101,88 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
 
 function Script44()
 {
-  var player = GetPlayer();
-var sec = 60; // Durasi waktu dalam detik
+  var elem = document.documentElement;
 
-// Reset timer lama jika ada yang aktif
-if (window.evalTimer) {
-    clearInterval(window.evalTimer);
-}
-
-// Jalankan countdown 1 detik sekali
-window.evalTimer = setInterval(function() {
-    sec--;
-    player.SetVar("60lv2", sec);
-
-    if (sec <= 0) {
-        clearInterval(window.evalTimer);
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
     }
-}, 1000);
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
+}
 }
 
 function Script45()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script46()
 {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv2", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
+}
+
+function Script47()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script48()
+{
   var elem = document.documentElement;
 
 if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
@@ -1106,39 +1205,39 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
     } else if (document.webkitExitFullscreen) {
         document.webkitExitFullscreen();
     }
-}
-}
-
-function Script47()
-{
-  var player = GetPlayer();
-var sec = 60; // Durasi waktu dalam detik
-
-// Reset timer lama jika ada yang aktif
-if (window.evalTimer) {
-    clearInterval(window.evalTimer);
-}
-
-// Jalankan countdown 1 detik sekali
-window.evalTimer = setInterval(function() {
-    sec--;
-    player.SetVar("60lv2", sec);
-
-    if (sec <= 0) {
-        clearInterval(window.evalTimer);
-    }
-}, 1000);
-}
-
-function Script48()
-{
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
 }
 }
 
 function Script49()
 {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv2", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
+}
+
+function Script50()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script51()
+{
   var elem = document.documentElement;
 
 if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
@@ -1161,39 +1260,39 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
     } else if (document.webkitExitFullscreen) {
         document.webkitExitFullscreen();
     }
-}
-}
-
-function Script50()
-{
-  var player = GetPlayer();
-var sec = 60; // Durasi waktu dalam detik
-
-// Reset timer lama jika ada yang aktif
-if (window.evalTimer) {
-    clearInterval(window.evalTimer);
-}
-
-// Jalankan countdown 1 detik sekali
-window.evalTimer = setInterval(function() {
-    sec--;
-    player.SetVar("60lv2", sec);
-
-    if (sec <= 0) {
-        clearInterval(window.evalTimer);
-    }
-}, 1000);
-}
-
-function Script51()
-{
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
 }
 }
 
 function Script52()
 {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv2", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
+}
+
+function Script53()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script54()
+{
   var elem = document.documentElement;
 
 if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
@@ -1216,34 +1315,6 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
     } else if (document.webkitExitFullscreen) {
         document.webkitExitFullscreen();
     }
-}
-}
-
-function Script53()
-{
-  var player = GetPlayer();
-var sec = 60; // Durasi waktu dalam detik
-
-// Reset timer lama jika ada yang aktif
-if (window.evalTimer) {
-    clearInterval(window.evalTimer);
-}
-
-// Jalankan countdown 1 detik sekali
-window.evalTimer = setInterval(function() {
-    sec--;
-    player.SetVar("60lv2", sec);
-
-    if (sec <= 0) {
-        clearInterval(window.evalTimer);
-    }
-}, 1000);
-}
-
-function Script54()
-{
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
 }
 }
 
@@ -1276,60 +1347,6 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
 
 function Script56()
 {
-  var elem = document.documentElement;
-
-if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
-    if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-    } else if (elem.msRequestFullscreen) {
-        elem.msRequestFullscreen();
-    } else if (elem.mozRequestFullScreen) {
-        elem.mozRequestFullScreen();
-    } else if (elem.webkitRequestFullscreen) {
-        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
-    }
-} else {
-    if (document.exitFullscreen) {
-        document.exitFullscreen();
-    } else if (document.msExitFullscreen) {
-        document.msExitFullscreen();
-    } else if (document.mozCancelFullScreen) {
-        document.mozCancelFullScreen();
-    } else if (document.webkitExitFullscreen) {
-        document.webkitExitFullscreen();
-    }
-}
-}
-
-function Script57()
-{
-  var elem = document.documentElement;
-
-if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
-    if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-    } else if (elem.msRequestFullscreen) {
-        elem.msRequestFullscreen();
-    } else if (elem.mozRequestFullScreen) {
-        elem.mozRequestFullScreen();
-    } else if (elem.webkitRequestFullscreen) {
-        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
-    }
-} else {
-    if (document.exitFullscreen) {
-        document.exitFullscreen();
-    } else if (document.msExitFullscreen) {
-        document.msExitFullscreen();
-    } else if (document.mozCancelFullScreen) {
-        document.mozCancelFullScreen();
-    } else if (document.webkitExitFullscreen) {
-        document.webkitExitFullscreen();
-    }
-}
-}
-
-function Script58()
-{
   var player = GetPlayer();
 var sec = 60; // Durasi waktu dalam detik
 
@@ -1341,12 +1358,46 @@ if (window.evalTimer) {
 // Jalankan countdown 1 detik sekali
 window.evalTimer = setInterval(function() {
     sec--;
-    player.SetVar("60lv3", sec);
+    player.SetVar("60lv2", sec);
 
     if (sec <= 0) {
         clearInterval(window.evalTimer);
     }
 }, 1000);
+}
+
+function Script57()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script58()
+{
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
+}
 }
 
 function Script59()
@@ -1378,37 +1429,131 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
 
 function Script60()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script61()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script62()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script63()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script64()
 {
-  if (window.evalTimer) {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
     clearInterval(window.evalTimer);
 }
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv3", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
 }
 
 function Script65()
@@ -1420,16 +1565,50 @@ function Script65()
 
 function Script66()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script67()
 {
-  if (window.evalTimer) {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
     clearInterval(window.evalTimer);
 }
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv3", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
 }
 
 function Script68()
@@ -1441,16 +1620,50 @@ function Script68()
 
 function Script69()
 {
-  if (window.evalTimer) {
-    clearInterval(window.evalTimer);
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
 }
 }
 
 function Script70()
 {
-  if (window.evalTimer) {
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
     clearInterval(window.evalTimer);
 }
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv3", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
 }
 
 function Script71()
@@ -1488,6 +1701,165 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
 }
 
 function Script73()
+{
+  var player = GetPlayer();
+var sec = 60; // Durasi waktu dalam detik
+
+// Reset timer lama jika ada yang aktif
+if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+
+// Jalankan countdown 1 detik sekali
+window.evalTimer = setInterval(function() {
+    sec--;
+    player.SetVar("60lv3", sec);
+
+    if (sec <= 0) {
+        clearInterval(window.evalTimer);
+    }
+}, 1000);
+}
+
+function Script74()
+{
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
+}
+}
+
+function Script75()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script76()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script77()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script78()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script79()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script80()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script81()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script82()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script83()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script84()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script85()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script86()
+{
+  if (window.evalTimer) {
+    clearInterval(window.evalTimer);
+}
+}
+
+function Script87()
+{
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
+}
+}
+
+function Script88()
 {
   var elem = document.documentElement;
 
